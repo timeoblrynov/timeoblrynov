@@ -1,8 +1,8 @@
 # 👋 Hi, I'm timeoblrynov
 
-French Cybersecurity Student at **Nantes Ynov Campus**
-Co-Founder of **FlagCore**
-Cybersecurity & Development
+French Cybersecurity Student at Nantes Ynov Campus<br>
+Co-Founder of FlagCore<br>
+Cybersecurity & Development<br>
 
 
-Offensive securi
+Offensive Security - OSINT - Forensic
