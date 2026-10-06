@@ -7,7 +7,7 @@ Co-Founder of FlagCore<br>
 
 👉​ [MY WEBSITE](https://www.timeobaffreauleroux.pro/)
 
-Cybersecurity | Development & Scripting<br>
+Cybersecurity | Development & Scripting | AI & Automatisation <br>
 
 Offensive Security - OSINT - Forensic
 
