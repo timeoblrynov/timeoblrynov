@@ -24,29 +24,27 @@ $ cat tim.json
 
 ```json
 {
-  "name": "Timéo Baffreau Le Roux",
   "alias": "Tim",
   "location": "France 🇫🇷",
   "school": "Ynov Campus — Nantes",
   "role": "Cybersecurity Student",
-  "startup": "Co-Founder @ FlagCore",
+  "project": "Co-Founder @ FlagCore",
   "focus": ["Offensive Security", "OSINT", "Forensic"],
   "also": ["Development & Scripting", "AI & Automation"],
-  "motto": "Think like an attacker, build like a defender."
 }
 ```
 
 ---
 
-## 🎯 `./expertise`
+## `./expertise`
 
 <div align="center">
 
-| 🔴 Offensive Security | 🕵️ OSINT | 🔬 Forensic |
+| Offensive Security | OSINT | Forensic |
 |:---:|:---:|:---:|
 | Pentest, recon, exploitation | Investigation & data intelligence | Analyse d'incidents & investigation numérique |
 
-| 💻 Dev & Scripting | 🤖 AI & Automation |
+| Dev & Scripting | AI & Automation |
 |:---:|:---:|
 | Outils, scripts, web apps | Workflows & agents intelligents |
 
@@ -54,7 +52,7 @@ $ cat tim.json
 
 ---
 
-## 🛠️ `./tech_stack`
+## `./tech_stack`
 
 <div align="center">
 
@@ -90,35 +88,18 @@ $ cat tim.json
 
 ---
 
-## 🚀 `./flagcore`
+## `./flagcore`
 
 <div align="center">
 
 > ### 🏴 **FlagCore** — Co-Founder
 > *Cybersecurity, challenges & expertise — built from the ground up.*
 
-[![FlagCore](https://img.shields.io/badge/🚩_Découvrir_FlagCore-00FF9C?style=for-the-badge&labelColor=0d1117)](https://www.timeobaffreauleroux.pro/)
+[![FlagCore](https://img.shields.io/badge/🚩_Découvrir_FlagCore-00FF9C?style=for-the-badge&labelColor=0d1117)](https://flagcore.fr/)
 
 </div>
 
----
-
-## 📊 `./stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=timeoblrynov&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&bg_color=0d1117&border_color=00FF9C&border_radius=10" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeoblrynov&layout=compact&hide_border=false&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117&border_color=00FF9C&border_radius=10" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=timeoblrynov&theme=dark&hide_border=false&background=0d1117&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00FF9C33" alt="Streak"/>
-
-</div>
-
----
-
-## 🔗 `./connect`
+## `./connect`
 
 <div align="center">
 
@@ -128,12 +109,6 @@ $ cat tim.json
 <a href="https://github.com/timeoblrynov"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
-
-```text
- ┌──────────────────────────────────────────────┐
- │  "Security is not a product, it's a process." │
- └──────────────────────────────────────────────┘
-```
 
 <img src="https://komarev.com/ghpvc/?username=timeoblrynov&label=Profile+views&color=00FF9C&style=for-the-badge&labelColor=0d1117" alt="Views"/>
 
