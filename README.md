@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d2b,100:00FF9C&height=220&section=header&text=Timéo%20Baffreau%20Le%20Roux&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Dev%20%26%20Scripting%20%7C%20AI%20%26%20Automation&descSize=16&descAlignY=58&descColor=00FF9C" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d2b,100:00FF9C&height=220&section=header&text=Tim%C3%A9o%20Baffreau%20Le%20Roux&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Development%20%7C%20AI%20Automation&descSize=16&descAlignY=58&descColor=00FF9C" width="100%" alt="header"/>
 
 <a href="https://github.com/timeoblrynov">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Tim%2C+cybersecurity+student;%24+cat+mission.txt+%E2%86%92+Break+it.+Understand+it.+Secure+it.;%24+echo+%22Co-Founder+of+FlagCore%22;%24+status+%E2%86%92+Open+to+internships+%26+collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Tim%2C+cybersecurity+student;%24+cat+mission.txt+%E2%86%92+Break+it.+Understand+it.+Secure+it.;%24+echo+%22Co-Founder+of+FlagCore%22;%24+status+%E2%86%92+Open+to+internships+and+collabs" alt="Typing SVG" />
 </a>
 
 <br/>
